@@ -36,7 +36,7 @@ git clone: https://github.com/vinioliveira-developer/Weather-APP.git
 
 ## 🌐 Deploy
 
-Aplicação publicada no Vercel.
+Aplicação publicada no Vercel. [clique aqui](https://weather-app-eta-eight-67.vercel.app/)
 
 ## 📸 Preview
 
