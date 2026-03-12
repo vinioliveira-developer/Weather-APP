@@ -30,7 +30,7 @@ Aplicação permite consultar temperatura e condições climáticas de qualquer 
 
 1. Clone o repositório
 
-(https://github.com/vinioliveira-developer/Weather-APP.git)
+git clone: https://github.com/vinioliveira-developer/Weather-APP.git
 
 2. Abra o arquivo
 
