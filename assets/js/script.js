@@ -19,7 +19,7 @@ buscarClima();
 // Função principal responsável por buscar os dados de clima na API
 function buscarClima(){
 
-const city = input.value;
+const city = input.value.trim();
 
 // Validação simples caso o usuário não digite nenhuma cidade
 if(city === ""){
@@ -64,6 +64,9 @@ result.innerHTML = `
 <p>🌡 Temperatura: ${temperatura}°C</p>
 <p>Clima: ${descricao}</p>
 `;
+
+// limpa o campo de busca após mostrar o resultado
+input.value = "";
 
 })
 
