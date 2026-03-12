@@ -40,7 +40,7 @@ Aplicação publicada no Vercel.
 
 ## 📸 Preview
 
-![Preview do Portfolio](assets/img/preview.webp)
+![Preview do Portfolio](assets/img/preview.png)
 
 ## 📬 Contato
 
